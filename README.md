@@ -27,9 +27,8 @@ Kyu levels
 <br>
 
 <b><h4>Links to katas in this repository:</h4></b>
-<b><h5>3kyu</h5></b>
-
-
+<b><h5>5kyu</h5></b>
 | Challenge  | My Solution |
 | ------------- | ------------- |
 | <a href="https://www.codewars.com/kata/58e24788e24ddee28e000053" target="_blank">Simple assembler interpreter</a>  |  <a href="https://github.com/lumega/codewars/blob/master/challenges/5kyu/simple_assembler_interpreter.py">challenges/5kyu/simple_assembler_interpreter.py</a> |
+|<a target="_blank" href="https://www.codewars.com/kata/dont-eat-the-last-cake/train/python">Don't Eat the Last Cake!</a>|<a href="https://github.com/lumega/codewars/blob/master/challenges/5kyu/dont_eat_the_last_cake.py">challenges/5kyu/dont_eat_the_last_cake.py</a>|
