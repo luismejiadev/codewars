@@ -32,5 +32,5 @@ Kyu levels
 
 | Challenge  | My Solution |
 | ------------- | ------------- |
-| <a href="https://www.codewars.com/kata/58e24788e24ddee28e000053">Simple assembler interpreter
-</a>  |   |
+| <a href="https://www.codewars.com/kata/58e24788e24ddee28e000053" target="_blank">Simple assembler interpreter
+</a>  |  https://github.com/lumega/codewars/blob/master/challenges/5kyu/simple_assembler_interpreter.py |
