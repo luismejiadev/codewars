@@ -1,6 +1,6 @@
 # Codewars
 
-These are some of my solutions for <a href="www.codewars.com/r/ka3pbg">codewars</a> challenges.
+These are some of my solutions for <a href="https://www.codewars.com/r/ka3pbg">codewars</a> challenges.
 
 <br>
 Programming languages:
